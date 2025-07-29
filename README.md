@@ -14,7 +14,7 @@ Happiness Plans is a smooth, responsive landing page website built to help users
 - added location of office by google map embeded link.
 ## 🚀 How to Use
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/xVIKASINGH/Happiness-Plans.git
 2. Open `index.html` in your browser to explore the site.
 
 ## 📁 Tech Stack
